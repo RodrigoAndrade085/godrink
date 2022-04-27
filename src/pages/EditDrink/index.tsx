@@ -50,7 +50,6 @@ export function EditDrink()  {
       brewed: Number(brewed),
       description,
       image_url} ))
-      // console.log({title, brewed,description, image_url})
       
       navigate('/')
     }

@@ -2,8 +2,8 @@
   "drinks": [
     {
       "id": 1,
-      "title": "Buzz",
-      "brewed": "2007",
+      "title": "BuzzZ",
+      "brewed": 2007,
       "description": "A light, crisp and bitter IPA brewed with English and American hops. A small batch brewed only once.",
       "image_url": "https://images.punkapi.com/v2/keg.png"
     },
@@ -37,24 +37,24 @@
     },
     {
       "id": 6,
-      "name": "Electric India",
+      "title": "Electric India",
       "brewed": 2013,
       "description": "Re-brewed as a spring seasonal, this beer – which appeared originally as an Equity Punk shareholder creation – retains its trademark spicy, fruity edge. A perfect blend of Belgian Saison and US IPA, crushed peppercorns and heather honey are also added to produce a genuinely unique beer.",
-		  "image_url": "https://images.punkapi.com/v2/6.png"
+      "image_url": "https://images.punkapi.com/v2/6.png"
     },
     {
       "id": 7,
       "title": "AB:12",
       "brewed": 2012,
       "description": "An Imperial Black Belgian Ale aged in old Invergordon Scotch whisky barrels with mountains of raspberries, tayberries and blackberries in each cask. Decadent but light and dry, this beer would make a fantastic base for ageing on pretty much any dark fruit - we used raspberries, tayberries and blackberries beause they were local.",
-		  "image_url": "https://images.punkapi.com/v2/7.png"
+      "image_url": "https://images.punkapi.com/v2/7.png"
     },
     {
       "id": 8,
       "title": "Fake Lager",
       "brewed": 2013,
       "description": "Fake is the new black. Fake is where it is at. Fake Art, fake brands, fake breasts, and fake lager. We want to play our part in the ugly fallout from the Lager Dream. Say hello to Fake Lager – a zesty, floral 21st century faux masterpiece with added BrewDog bitterness.",
-		  "image_url": "https://images.punkapi.com/v2/8.png"
+      "image_url": "https://images.punkapi.com/v2/8.png"
     },
     {
       "id": 9,
@@ -68,21 +68,21 @@
       "title": "Bramling X",
       "brewed": 2011,
       "description": "Good old Bramling Cross is elegant, refined, assured, (boring) and understated. Understated that is unless you hop the living daylights out of a beer with it. This is Bramling Cross re-invented and re-imagined, and shows just what can be done with English hops if you use enough of them. Poor Bramling Cross normally gets lost in a woeful stream of conformist brown ales made by sleepy cask ale brewers. But not anymore. This beer shows that British hops do have some soul, and is a fruity riot of blackberries, pears, and plums. Reminds me of the bramble, apple and ginger jam my grandmother used to make.",
-		  "image_url": "https://images.punkapi.com/v2/10.png"
+      "image_url": "https://images.punkapi.com/v2/10.png"
     },
     {
       "id": 11,
       "title": "Misspent Youth",
       "brewed": 2013,
       "description": "The brainchild of our small batch brewer, George Woods. A dangerously drinkable milk sugar- infused Scotch Ale.",
-		  "image_url": "https://images.punkapi.com/v2/keg.png"
+      "image_url": "https://images.punkapi.com/v2/keg.png"
     },
     {
       "id": 12,
       "title": "Movember",
       "brewed": 2009,
       "description": "A deliciously robust, black malted beer with a decadent dark, dry cocoa flavour that provides an enticing backdrop to the Cascade hops.",
-		  "image_url": "https://images.punkapi.com/v2/13.png"
+      "image_url": "https://images.punkapi.com/v2/13.png"
     },
     {
       "id": 13,
@@ -96,49 +96,49 @@
       "title": "Mixtape 8",
       "brewed": 2012,
       "description": "This recipe is for the Belgian Tripel base. A blend of two huge oak aged beers – half a hopped up Belgian Tripel, and half a Triple India Pale Ale. Both aged in single grain whisky barrels for two years and blended, each beer brings its own character to the mix. The Belgian Tripel comes loaded with complex spicy, fruity esters, and punchy citrus hop character.",
-		  "image_url": "https://images.punkapi.com/v2/15.png"
+      "image_url": "https://images.punkapi.com/v2/15.png"
     },
     {
       "id": 15,
       "title": "Libertine Porter",
       "brewed": 2012,
       "description": "An avalanche of cross-continental hop varieties give this porter a complex spicy, resinous and citrusy aroma, with a huge malt bill providing a complex roasty counterpoint. Digging deeper into the flavour draws out cinder toffee, bitter chocolate and hints of woodsmoke.",
-		  "image_url": "https://images.punkapi.com/v2/16.png"
+      "image_url": "https://images.punkapi.com/v2/16.png"
     },
     {
       "id": 16,
       "title": "AB:06",
       "brewed": 2011,
       "description": "Our sixth Abstrakt, this imperial black IPA combined dark malts with a monumental triple dry-hop, using an all-star team of some of our favourite American hops. Roasty and resinous.",
-		  "image_url": "https://images.punkapi.com/v2/17.png"
+      "image_url": "https://images.punkapi.com/v2/17.png"
     },
     {
       "id": 17,
       "title": "Russian Doll – India Pale Ale",
       "brewed": 2014,
       "description": "The levels of hops vary throughout the range. We love hops, so all four beers are big, bitter badasses, but by tweaking the amount of each hop used later in the boil and during dry- hopping, we can balance the malty backbone with some unexpected flavours. Simcoe is used in the whirlpool for all four beers, and yet still lends different characters to each",
-		  "image_url": "https://images.punkapi.com/v2/18.png"
+      "image_url": "https://images.punkapi.com/v2/18.png"
     },
     {
       "id": 18,
       "title": "Hello My Name Is Mette-Marit",
       "brewed": 2013,
       "description": "We sent this beer to Norway where it was known as 'Hello, my name is Censored’. You can make up your own mind as to why. This brew was a red berry explosion, with a reisnous bitter edge layered with dry berry tartness.",
-		  "image_url": "https://images.punkapi.com/v2/19.png"
+      "image_url": "https://images.punkapi.com/v2/19.png"
     },
     {
       "id": 19,
       "title": "Rabiator",
       "brewed": 2011,
       "description": "Imperial Wheat beer / Weizenbock brewed by a homesick German in leather trousers. Think banana bread, bubble gum and David Hasselhoff.",
-		  "image_url": "https://images.punkapi.com/v2/keg.png"
+      "image_url": "https://images.punkapi.com/v2/keg.png"
     },
     {
-      "id":20,
+      "id": 20,
       "title": "Vice Bier",
       "brewed": 2013,
       "description": "Our take on the classic German Kristallweizen. A clear German wheat beer, layers of bubblegum and vanilla perfectly balanced with the American and New Zealand hops.",
-		  "image_url": "https://images.punkapi.com/v2/keg.png"
+      "image_url": "https://images.punkapi.com/v2/keg.png"
     }
   ]
 }

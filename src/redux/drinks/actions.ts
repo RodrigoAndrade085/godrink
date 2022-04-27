@@ -13,9 +13,9 @@ interface Drinks {
 
 const fetchDrinks = createAsyncThunk("drinks/all", async (search?: string) => {
   const response = await api.get("/drinks");
-  const drinks = !search ? response.data : response.data.filter((val: Drinks) => 
-  val.title.toLocaleLowerCase().includes(search.toLocaleLowerCase()) ||
-  val.description.toLocaleLowerCase().startsWith(search.toLocaleLowerCase())
+   const drinks = !search ? response.data : response.data.filter((val: Drinks) =>
+   val.title.toLocaleLowerCase().includes(search.toLocaleLowerCase()) ||
+   val.description.toLocaleLowerCase().startsWith(search.toLocaleLowerCase())
 )
   return drinks;
 });

@@ -57,7 +57,6 @@ useEffect(() => {
   
       </InputContainer>
 
-        {console.log(drinks)}
       <FoodsContainer>
         {drinks && drinks.map(drink => (
           <Drink 
