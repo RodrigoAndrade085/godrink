@@ -24,6 +24,7 @@ export function Dashboard()  {
 
   async function handleDeleteDrink (id: number) {
     dispatch(deleteDrinks(id))
+    
     dispatch(fetchDrinks())
   }
 
