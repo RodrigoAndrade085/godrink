@@ -12,4 +12,4 @@
   `yarn ou npm install`
   
   Rode o projeto com:  
-  `yarn start`
+  `yarn start ou npm run start`
