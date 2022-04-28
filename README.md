@@ -11,5 +11,5 @@
   Instale as dependências:  
   `yarn ou npm install`
   
-  Rode o projeto com:
+  Rode o projeto com:  
   `yarn start`
