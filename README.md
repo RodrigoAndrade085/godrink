@@ -1,4 +1,4 @@
-# :wrench: godrink
+# :beers: godrink
 
 ### :computer: Rodando Projeto:
 
