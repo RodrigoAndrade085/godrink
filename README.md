@@ -3,7 +3,7 @@
 ### :computer: Rodando Projeto:
 
   Clone o repositório:  
-  `https://github.com/RodrigoAndrade085/godrink.git`
+  `git clone https://github.com/RodrigoAndrade085/godrink.git`
   
   Acesse a pasta do projeto:  
   `cd godrink`
